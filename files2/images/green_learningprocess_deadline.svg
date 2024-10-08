@@ -1,0 +1,17 @@
+<svg width="125" height="125" viewBox="0 0 125 125" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="62.5" cy="62.5" r="62.5" fill="#4BD0A0"/>
+<path d="M101.087 40.435C101.087 36.1127 97.5831 32.6089 93.2609 32.6089H32.8261C28.5039 32.6089 25 36.1127 25 40.435V44.0219V84.5654C25 88.8876 28.5039 92.3915 32.8261 92.3915H93.2609C97.5831 92.3915 101.087 88.8876 101.087 84.5654V44.0219V40.435Z" fill="white"/>
+<path d="M25 44.0219V40.435C25 36.1127 28.5039 32.6089 32.8261 32.6089H93.2609C97.5831 32.6089 101.087 36.1127 101.087 40.435V44.0219M25 44.0219V84.5654C25 88.8876 28.5039 92.3915 32.8261 92.3915H93.2609C97.5831 92.3915 101.087 88.8876 101.087 84.5654V44.0219M25 44.0219H101.087" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="35.8696" y="27.1741" width="5.43478" height="10.8696" rx="2.71739" fill="white" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="84.7825" y="27.1741" width="5.43478" height="10.8696" rx="2.71739" fill="white" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<rect width="10.6719" height="10.6719" transform="matrix(1 0 0 -1 33.6956 66.1069)" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<rect width="10.6719" height="10.6719" transform="matrix(1 0 0 -1 49.7036 66.1069)" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<rect width="10.6719" height="10.6719" transform="matrix(1 0 0 -1 65.7117 66.1069)" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<rect width="10.6719" height="10.6719" transform="matrix(1 0 0 -1 81.7192 66.1069)" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<rect width="10.6719" height="10.6719" transform="matrix(1 0 0 -1 33.6956 82.1147)" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<rect width="10.6719" height="10.6719" transform="matrix(1 0 0 -1 49.7036 82.1147)" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<rect width="10.6719" height="10.6719" transform="matrix(1 0 0 -1 65.7117 82.1147)" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<rect width="10.6719" height="10.6719" transform="matrix(1 0 0 -1 81.7192 82.1147)" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="55" cy="61" r="2.5" stroke="black"/>
+<circle cx="87" cy="77" r="2.5" stroke="black"/>
+</svg>

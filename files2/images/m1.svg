@@ -1,0 +1,25 @@
+<svg width="180" height="75" viewBox="0 0 180 75" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_186_1342" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="180" height="75">
+<rect width="180" height="75" fill="#F3F4F7"/>
+</mask>
+<g mask="url(#mask0_186_1342)">
+<g opacity="0.8">
+<ellipse rx="19.3582" ry="49.093" transform="matrix(0.5 0.866025 -0.74597 0.66598 131.057 37.4596)" stroke="#D85F68"/>
+<ellipse rx="19.3582" ry="49.093" transform="matrix(0.5 0.866025 -0.74597 0.66598 99.0572 37.4596)" stroke="#D85F68"/>
+<ellipse rx="19.3582" ry="49.093" transform="matrix(0.5 0.866025 -0.74597 0.66598 67.3009 37.4596)" stroke="#D85F68"/>
+</g>
+<g filter="url(#filter0_f_186_1342)">
+<circle cx="70" cy="38" r="20" fill="#D85F68" fill-opacity="0.25"/>
+</g>
+<circle cx="37.5" cy="37.5" r="37.5" fill="#D85F68"/>
+<path d="M30 45.736H35.76V30.472L30 34.576V29.32L36.084 25H41.16V45.736H45.84V50.2H30V45.736Z" fill="white"/>
+</g>
+<path d="M156.5 25L154.29 35.2903L144 37.5L154.29 39.7097L156.5 50L158.71 39.7097L169 37.5L158.71 35.2903L156.5 25Z" fill="#D85F68"/>
+<defs>
+<filter id="filter0_f_186_1342" x="30" y="-2" width="80" height="80" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur_186_1342"/>
+</filter>
+</defs>
+</svg>
